@@ -1,0 +1,14 @@
+{
+  "name": "autoclipper",
+  "version": "1.0.0",
+  "description": "Automatically generate clips from videos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K1GOL",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "commander": "^9.2.0"
+  }
+}
